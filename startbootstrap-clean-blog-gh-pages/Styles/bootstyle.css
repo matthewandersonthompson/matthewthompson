@@ -1,0 +1,50 @@
+
+/*Matthew Thompson 12/14/2021 )*/
+
+
+h1{
+    font-family: cursive;
+    color: cadetblue;
+}
+
+a{
+    color: cadetblue;
+}
+
+body{
+    background-color: rgb(236, 238, 143);
+    font-family: 'Courier New', Courier, monospace;
+    color: black;
+  
+}
+
+.common{
+    position: absolute;
+}
+
+.header{
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 100px;
+    z-index: 2;
+    border-bottom: solid 2px black;
+}
+
+.mainbody{
+    top: 114px;
+    bottom: 64px;
+    left: 114px;
+    right: 314px;
+    padding-right: 5px;
+}
+.footer{
+    bottom: 5px;
+    height: 25px;
+    left: 5px;
+    right: 5px;
+    font-size: 10px;
+    color: rgb(216, 32, 32);
+    text-align: center;
+    position: fixed;
+}

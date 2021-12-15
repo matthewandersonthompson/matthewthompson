@@ -1,0 +1,20 @@
+/*Matthew Thompson 12/14/2021 )*/
+
+.underline{
+    text-decoration: underline;
+}
+.bold{
+    font-weight: bold;
+}
+.green{
+    color: green;
+    
+}
+.coolparagraph{
+    font-style: italic;
+    font-size: larger;
+}
+
+h4{
+    color: white;
+}
